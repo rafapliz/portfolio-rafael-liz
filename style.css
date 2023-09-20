@@ -89,7 +89,12 @@ h2 { background: #1f2e86;
     width: 40%;
     margin: auto;
 }
-
+img.lua{
+    display: flex;
+    margin: 10px;
+    border-radius: 23px;
+    justify-content: space-around;
+}
 img { 
     display: flex;
     margin: auto;
